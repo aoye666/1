@@ -25,6 +25,7 @@
     "hexo-server": "^3.0.0",
     "hexo-tag-aplayer": "^3.0.4",
     "hexo-theme-ayer": "^1.9.7-0",
+    "hexo-theme-fluid": "^1.9.8",
     "hexo-theme-landscape": "^1.0.0"
   }
 }

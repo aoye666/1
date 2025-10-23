@@ -1,7 +1,5 @@
 ---
 title: about
-type: about
-layout: "about"
+date: 2025-10-23 05:22:52
 ---
-# 关于我
-。。。。。。。
+一个互联网中的小站
